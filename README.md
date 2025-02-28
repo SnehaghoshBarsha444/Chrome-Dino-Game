@@ -18,7 +18,7 @@ A recreation of the popular Chrome Dino Game using multiple programming language
 |----------|---------------|
 | **C** | [Chrome Dino in C](https://github.com/SnehaghoshBarsha444/Chrome-Dino-Game/tree/main/c) |
 | **Python** | [Chrome Dino in Python](https://github.com/SnehaghoshBarsha444/Chrome-Dino-Game/tree/main/python) |
-| **HTML, CSS, JavaScript** | [Chrome Dino in HTML/CSS/JS](https://github.com/SnehaghoshBarsha444/Chrome-Dino-Game/tree/main/html-css-js) |
+| **HTML, CSS, JavaScript** | [Chrome Dino in HTML-CSS-JS](https://github.com/SnehaghoshBarsha444/Chrome-Dino-Game/tree/main/html-css-js) |
 
 ## 🎮 Features
 
